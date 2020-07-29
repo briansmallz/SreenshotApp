@@ -1,0 +1,26 @@
+{
+  "name": "internshipassignement",
+  "version": "0.0.1",
+  "description": "Screenshot App ",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "smallz",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "file-type": "^14.6.2",
+    "googleapis": "^39.2.0",
+    "https": "^1.0.0",
+    "js-file-downloader": "^1.1.10",
+    "node-fetch": "^2.6.0",
+    "nodejs-file-downloader": "^1.0.5",
+    "nodemon": "^2.0.4",
+    "path": "^0.12.7",
+    "screenshotmachine": "^2.0.0"
+  }
+}
